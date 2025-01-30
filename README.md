@@ -1,13 +1,79 @@
-# venukrishnadevadi.github.io
+# AI/ML Enthusiast
 
-# Data Scientist
+## 🛠 Technical Skills  
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+### 💡 Machine Learning & Deep Learning  
+- Supervised & Unsupervised Learning  
+- Neural Networks (CNNs, RNNs, Transformers, ViTs)  
+- Hyperparameter Tuning & Model Optimization  
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+### 📖 Natural Language Processing (NLP)  
+- Language Models (BERT, GPT, MBart-50)  
+- Transformer Architectures & Attention Mechanisms  
+- Tokenization (SentencePiece, WordPiece, BPE, mBERT)  
+- Named Entity Recognition (NER), Sentiment Analysis  
+- Information Retrieval & Retrieval-Augmented Generation (RAG)  
+
+### 🛠 Model Training & Evaluation  
+- BLEU Score, Perplexity, F1-score, AUC  
+- Model Compression & Parameter Efficient Tuning (LoRA, QLoRA)  
+- Reinforcement Learning with Human Feedback (RLHF)  
+
+### 📊 Data Processing & Analysis  
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Feature Engineering & Data Cleaning  
+- Dimensionality Reduction (PCA, t-SNE)  
+
+### 🖥️ Frameworks & Libraries  
+- PyTorch, TensorFlow, Hugging Face Transformers  
+- Scikit-learn, OpenCV  
+
+## 🎓 Education
+
+### **Saint Peter’s University, Jersey City, NJ**  
+**Master of Science (MS) - Data Science** (Sep 2022 - Feb 2025)  
+*GPA: 3.9*  
+**Relevant Coursework:**  
+- Language Models, Attention Mechanisms, Transformer Models  
+- Model Configuration & Decoding Strategies  
+- Tokenization Methods & Text Generation Evaluation  
+- Retrieval-Augmented Models & Security Risk Mitigation  
+- Neural Language Model Training & Machine Learning Integration  
+
+### **Jawaharlal Nehru Technological University (JNTUK), India**  
+**Bachelor of Technology** (May 2012 - April 2016) 
+
+---
+
+## 📚 Publications
+
+- **Infodemic Management using NLP: A COVID-19 Case Study**  
+  *Presented at [AMIA](https://amia.secure-platform.com/symposium/solicitations/102001/sessiongallery/schedule/items/94175) 2024 Annual Symposium – P157, San Francisco, CA.*  
+- **Information Management using NLP: A COVID-19 Case Study**  
+  *Accepted in Advances in Healthcare using Machine Learning (Taylor & Francis).*
+
+---
+
+## 🏆 Academic Projects  
+
+### [**Multilingual Language Translator using Transformer**](https://github.com/venukrishna-devadi/Multilingual-Transformer-Model-for-Language-Translation)
+- Developed a **custom Transformer-based model** for **English-to-Hindi & English-to-Telugu** translation.  
+- Designed **BERT-based custom tokenization** and trained the model using **PyTorch** with language-specific tokens.  
+- Optimized inference using **top-k sampling** for real-time multilingual translation.  
+
+### **Image Classification on Anime Characters**
+- Built a **Vision Transformer (ViT)** from scratch using PyTorch, achieving **24% test accuracy**.  
+- Fine-tuned **ViT_B_16_Weights** on a custom **Dragon Ball Z dataset**, boosting test accuracy to **85%**.  
+
+### **COVID Tweet Classification using BERT**  
+- Designed an **NLP model** using **BERT embeddings** to classify COVID-19 tweets.  
+- Achieved **94.18% accuracy**, **85.73 F1-score**, and enhanced generalization with **AUC: 84.78%**.  
+
+### **Multilingual Machine Translation using MBart-50**  
+- Fine-tuned **MBart-50** for **English-to-Telugu & English-to-Hindi** translation.  
+- Achieved **BLEU Score: 26.88**, **Perplexity: 1.3047**, with over **50k bilingual sentence pairs**.  
+
+---
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
