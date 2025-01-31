@@ -1,3 +1,4 @@
 show_downloads: true
+title: " "
 logo: /assets/img/headshot_circle.png
 theme: jekyll-theme-minimal
