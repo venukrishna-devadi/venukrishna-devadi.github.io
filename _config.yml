@@ -1,11 +1,5 @@
 title: Venu Devadi
 logo: /assets/img/headshot_circle.png
-description: "LLM NLP ENTHUSIAST"
-<footer>
-  <p>
-    📧 <a href="mailto:venukrishnadevadi@gmail.com">Email</a> |  
-    💻 <a href="https://github.com/venukrishna-devadi" target="_blank">GitHub</a>
-  </p>
-</footer>
+description: "LLM & NLP Enthusiast | 📧 [Email](mailto:venukrishnadevadi@gmail.com) | 💻 [GitHub](https://github.com/venukrishna-devadi)"
 show_downloads: true
 theme: jekyll-theme-minimal
