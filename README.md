@@ -34,6 +34,11 @@ During my graduate studies, my fascination with Transformers and Advanced NLP gr
 - Built a Multi-Label Classification Model to categorize COVID-19-related tweets into public health themes using models like BERT, CNN-GRU, and TCN, achieving high accuracy (94.19%) and F1 score (98.35%) for non-stratified classification.
 - Improved and evaluated performance with simpler methods like TF-IDF with SVM and compared them to advanced models like COVID-Twitter-BERT, effectively handling class imbalance with stratified classification (F1: 85.73, Recall: 90.39%).
 
+### **SONI - Machine Learning Chatbot** [code](https://github.com/venukrishna-devadi/ML_Doubt_clarrifier_Chatbot)
+- Built an NLP-powered chatbot trained on 926 user patterns using transformer-based embeddings (BERT, 768-d vectors).
+- Evaluated multiple models (SVM, KNN, Logistic Regression, Decision Tree) achieving best accuracy: 48% (KNN) and F1-score: 0.49 (Logistic Regression).
+- Designed for API integration & deployment, with future scope for reinforcement learning enhancements.
+
 
 ## Work Experience
 
