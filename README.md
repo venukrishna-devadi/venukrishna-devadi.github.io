@@ -24,7 +24,19 @@ During my graduate studies, my fascination with Transformers and Advanced NLP gr
 
 ### **COVID Tweet Classification using BERT** [code](https://github.com/venukrishna-devadi/BERT-cvoid-tweet-classification)  
 - Designed an [**NLP model**]() using **BERT embeddings** to classify COVID-19 tweets.  
-- Achieved **94.18% accuracy**, **85.73 F1-score**, and enhanced generalization with **AUC: 84.78%**.  
+- Achieved **94.18% accuracy**, **85.73 F1-score**, and enhanced generalization with **AUC: 84.78%**.
+
+### **Multilingual Machine Translation using MBart-50** [code](https://github.com/venukrishna-devadi/Multilingual-Translation-with-MBart-50)
+- Fine-tuned **MBart-50** for **English-to-Telugu & English-to-Hindi** translation.  
+- Achieved **BLEU Score: 26.88**, **Perplexity: 1.3047**, with over **50k bilingual sentence pairs**.  
+
+### **COVID Twitter Multi-Label Classification** [`code`](https://github.com/yourusername/COVID-Twitter-Classification)  
+- Built a **Multi-Label Classification Model** to categorize **COVID-19-related tweets** into **public health themes** using models like **BERT, CNN-GRU, and TCN**, achieving **high accuracy (94.19%)** and **F1-score (98.35%)** for **non-stratified classification**.  
+- Improved and evaluated performance with simpler methods like **TF-IDF with SVM** and compared them to advanced models like **COVID-Twitter-BERT**, effectively handling **class imbalance** with **stratified classification** (**F1: 85.73, Recall: 90.39%**).
+
+### **SONI - Machine Learning Chatbot** [`code`](https://github.com/yourusername/SONI-Chatbot)  
+- Built an **NLP-powered chatbot** trained on **926 user patterns** using **transformer-based embeddings** (**BERT, 768-d vectors**).  
+- Evaluated multiple models (**SVM, KNN, Logistic Regression, Decision Tree**) achieving **best accuracy: 48% (KNN)** and **F1-score: 39% (Logistic Regression)**. - Designed for **API integration & deployment**, with future scope for **reinforcement learning enhancements**.  
 
 
 ## Work Experience
