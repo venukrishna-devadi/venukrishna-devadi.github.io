@@ -20,7 +20,7 @@ During my graduate studies, my fascination with Transformers and Advanced NLP gr
 
 ## 🏆 Projects  
 
-### **Custom Multilingual Language Translator using Transformer** [code](https://github.com/venukrishna-devadi/Multilingual-Transformer-Model-for-Language-Translation)
+### **Multilingual Transformer Model for Language Translation - Built from Scratch** [code](https://github.com/venukrishna-devadi/Multilingual-Transformer-Model-for-Language-Translation)
 - Developed a **custom Transformer-based model** for **English-to-Hindi & English-to-Telugu** translation.  
 - Designed **BERT-based custom tokenization** and trained the model using **PyTorch** with language-specific tokens.  
 - Optimized inference using **top-k sampling** for real-time multilingual translation.
