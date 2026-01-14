@@ -8,9 +8,22 @@ theme: jekyll-theme-minimal
 # Venu Devadi
 ### AI/ML Enthusiast
 
-Hello! I am a Graduate Student in Data Science from Saint Peter’s University. While my coursework primarily focuses on Data Science, my true passion lies in Natural Language Processing (NLP) and its applications in Large Language Models (LLMs). My professional journey began as a Transaction Analyst at Amazon, followed by roles at Google and other organizations. However, I struggled to find work that truly sparked my curiosity. It was during the COVID-19 lockdown that I discovered my interest in Data Science. Through self-study, I delved deeper into the field, which eventually led me to pursue a Master’s in Data Science.
+I’m a GenAI Engineer specializing in building production-grade AI systems that combine large language models, retrieval, and reasoning to solve real enterprise problems. My work focuses on taking messy, unstructured data — documents, logs, customer journeys, and knowledge bases — and turning it into reliable, explainable, and usable AI-powered workflows.
 
-During my graduate studies, my fascination with Transformers and Advanced NLP grew, especially after exploring [Mohit Iyyer’s](https://www.cs.umd.edu/~miyyer/) Advanced NLP sessions. His work inspired me to dive deeper into LLMs, their architectures, and real-world applications. Currently, I am actively researching Natural Language Processing, focusing on the inner workings of Neural Language Models and their advancements. My goal is to deepen my expertise and contribute to the evolving field of NLP and AI.
+Currently, I work at Verizon, where I design and deploy LLM-powered platforms for test automation, customer journey intelligence, and semantic knowledge retrieval. These systems are used by QA teams, customer support, and product leaders to automate complex workflows, reduce manual effort, and make better decisions from large volumes of data.
+
+I specialize in:
+	•	Retrieval-Augmented Generation (RAG) using embedding models, FAISS, and OpenSearch
+	•	Agentic AI workflows for multi-step reasoning and task orchestration
+	•	Prompt & context engineering for grounded, low-hallucination outputs
+	•	Document and knowledge extraction from PDFs, Jira, logs, and APIs
+	•	Production ML systems built with Python, FastAPI, Docker, and cloud infrastructure
+
+Before Verizon, I built my foundation in machine learning, NLP, and data systems through research and applied projects — including transformer-based NLP models, vision transformers, and multilingual translation systems. I also hold a Master’s in Data Science, where I focused on deep learning, NLP, and real-world ML deployment.
+
+What drives me is applied AI — not just models in notebooks, but AI systems that people actually use. I care deeply about reliability, evaluation, and explainability, especially when AI is embedded into business-critical workflows.
+
+I’m always interested in working on problems at the intersection of LLMs, retrieval, reasoning, and real-world data, whether that’s in legal tech, customer support, enterprise automation, or product intelligence.
 
 
 ## 🎓 Education
