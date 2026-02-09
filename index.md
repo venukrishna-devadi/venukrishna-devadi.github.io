@@ -5,7 +5,7 @@ show_downloads: true
 theme: jekyll-theme-minimal
 ---
 
-# Venu Devadi
+# Krishna Devadi
 ### AI/ML Enthusiast
 
 I’m a GenAI Engineer specializing in building production-grade AI systems that combine large language models, retrieval, and reasoning to solve real enterprise problems. My work focuses on taking messy, unstructured data — documents, logs, customer journeys, and knowledge bases — and turning it into reliable, explainable, and usable AI-powered workflows.
@@ -33,20 +33,20 @@ I’m always interested in working on problems at the intersection of LLMs, retr
 
 ## 🏆 Projects  
 
-### **Multilingual Transformer Model for Language Translation - Built from Scratch** [code](https://github.com/venukrishna-devadi/Multilingual-Transformer-Model-for-Language-Translation)
+### **Multilingual Transformer Model for Language Translation - Built from Scratch** [code](https://github.com/Krishnakrishna-devadi/Multilingual-Transformer-Model-for-Language-Translation)
 - Developed a **custom Transformer-based model** for **English-to-Hindi & English-to-Telugu** translation.  
 - Designed **BERT-based custom tokenization** and trained the model using **PyTorch** with language-specific tokens.  
 - Optimized inference using **top-k sampling** for real-time multilingual translation.
 
-### **Image Classification on Anime Characters** [code](https://github.com/venukrishna-devadi/IMAGE-CLASSIFICATION-PROJECT-ON-ANIME-CHARACTERS)
+### **Image Classification on Anime Characters** [code](https://github.com/Krishnakrishna-devadi/IMAGE-CLASSIFICATION-PROJECT-ON-ANIME-CHARACTERS)
 - Built a **Vision Transformer (ViT)** from scratch using PyTorch, achieving **24% test accuracy**.  
 - Fine-tuned **ViT_B_16_Weights** on a custom **Dragon Ball Z dataset**, boosting test accuracy to **85%**.  
 
-### **COVID Tweet Classification using BERT** [code](https://github.com/venukrishna-devadi/BERT-cvoid-tweet-classification)  
+### **COVID Tweet Classification using BERT** [code](https://github.com/Krishnakrishna-devadi/BERT-cvoid-tweet-classification)  
 - Designed an [**NLP model**]() using **BERT embeddings** to classify COVID-19 tweets.  
 - Achieved **94.18% accuracy**, **85.73 F1-score**, and enhanced generalization with **AUC: 84.78%**.
 
-### **Multilingual Machine Translation using MBart-50** [code](https://github.com/venukrishna-devadi/Multilingual-Translation-with-MBart-50)
+### **Multilingual Machine Translation using MBart-50** [code](https://github.com/Krishnakrishna-devadi/Multilingual-Translation-with-MBart-50)
 - Fine-tuned **MBart-50** for **English-to-Telugu & English-to-Hindi** translation.  
 - Achieved **BLEU Score: 26.88**, **Perplexity: 1.3047**, with over **50k bilingual sentence pairs**.  
 
