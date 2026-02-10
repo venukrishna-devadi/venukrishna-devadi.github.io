@@ -65,9 +65,10 @@ I’m always interested in working on problems at the intersection of LLMs, retr
 - Teaching Assistant (Python in Data Science) | Saint Peter’s University, NJ | Sep 2024 – Dec 2024
 - Graduate Research Assistant | Saint Peter’s University, NJ | Feb 2024 – May 2024
 - Graduate Research Assistant | Saint Peter’s University, NJ | Feb 2023 – May 2023
+- Junior Machine Learning Engineer 1  | Google Operations Centre, Hyderabad |Aug 2021 - Apr 2022
 - Junior Data Scientist | GUS Education India, Hyderabad | Nov 2019 - Sep 2021
 - Python Developer | Receptun E-Logic Software Solutions, Visakhapatnam | Aug 2018 - Oct 2019
-- Transaction Risk Management System Investigator | Amazon Development Centre, Hyderabad | Oct 2016 – Aug 2018
+- Junior Data Engineer | Amazon Development Centre, Hyderabad | Oct 2016 – Aug 2018
 
 
 ## 📚 Publications
